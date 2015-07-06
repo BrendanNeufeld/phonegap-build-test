@@ -1,0 +1,14 @@
+2015-07-06 16:47:02.842 PhonegapBuildTest[7869:180678] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/brendan/Library/Developer/CoreSimulator/Devices/8AD6811E-F619-40A7-9828-CA9830284382/data/Containers/Data/Application/B99B008D-D177-4F8D-A9AB-46B7AB0C3DCE/Library/Cookies/Cookies.binarycookies
+2015-07-06 16:47:03.067 PhonegapBuildTest[7869:180678] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-06 16:47:03.067 PhonegapBuildTest[7869:180678] Multi-tasking -> Device: YES, App: YES
+2015-07-06 16:47:03.080 PhonegapBuildTest[7869:180678] Unlimited access to network resources
+2015-07-06 16:47:03.088 PhonegapBuildTest[7869:180678] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-06 16:47:03.798 PhonegapBuildTest[7869:180678] Resetting plugins due to page load.
+2015-07-06 16:47:03.903 PhonegapBuildTest[7869:180678] Finished load of: file:///Users/brendan/Library/Developer/CoreSimulator/Devices/8AD6811E-F619-40A7-9828-CA9830284382/data/Containers/Bundle/Application/B97E7896-A76A-4312-972F-E47ED555D87E/PhonegapBuildTest.app/www/index.html
